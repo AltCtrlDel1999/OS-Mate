@@ -1,10 +1,8 @@
 footer {
-  position: absolute;
-  text-align: center;
   bottom: 0;
   width: 100%;
-}
-  
-footer p {
-  color: #ccc;
+  background-color: #87A7A6;
+  position: absolute;
+  color: #e5ecf3;
+  padding: 20px 0 20px;
 }
