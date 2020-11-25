@@ -12,7 +12,7 @@ function Footer() {
       <Container>
         <Row>
           <Col>© {currentYear} OS-Mate</Col>
-          <Col>Get all Open Source Events and Hackathons under one roof</Col>
+          <Col>Get all Open Source Events and Hackathons under one roof.</Col>
           <Col><a href="https://github.com/AltCtrlDel1999/OS-Mate"><GitHubIcon style={{fill: "black"}}/></a></Col>
         </Row>
       </Container>
